@@ -4,7 +4,10 @@
     "autoload": {
         "psr-4": {
             "ctbuh\\Cloudinary\\": "./"
-        }
+        },
+        "files": [
+            "functions.php"
+        ]
     },
     "require": {
         "illuminate/contracts": "^6.0",
