@@ -1,0 +1,13 @@
+{
+    "name": "ctbuh/cloudinary-php",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ctbuh\\Cloudinary\\": "./"
+        }
+    },
+    "require": {
+        "illuminate/contracts": "^6.0",
+        "illuminate/support": "^6.0"
+    }
+}
