@@ -10,7 +10,7 @@
         ]
     },
     "require": {
-        "illuminate/contracts": "^6.0",
-        "illuminate/support": "^6.0"
+        "illuminate/contracts": "^6.0|^7.0",
+        "illuminate/support": "^6.0|^7.0"
     }
 }
